@@ -1,0 +1,68 @@
+body {
+    
+}
+
+#bobguy{
+    width: 1100px;
+    height: 500px;
+}
+
+.principal{
+    background: #FF99FF;
+    padding: 30px;
+}
+
+h1{
+    margin-left: 20px;
+}
+
+.titulo-centr{
+    text-align: center;
+}
+
+
+p {
+    text-align: center;
+}
+
+#missao{
+    font-size: 20px;
+}
+
+em strong {
+    color: #FF0000;
+}
+
+#banner{
+    width: 1000px;
+    height: 200px;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.itensecreto{
+    font-style: italic;
+    color: #FFFFFF;
+}
+
+.beneficios{
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficios{
+    width: 50%;
+}
+
+.secret{
+    color: #FF99FF;
+}
